@@ -1,5 +1,5 @@
 **/*venv*/
 **/*.swp
 **/*data*/
-**/*.vim
+**/*_sess.vim
 **/*__pycache__*/
